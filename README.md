@@ -1,38 +1,79 @@
 <br clear="both">
 
-<p align="left">Hello! My name is Luben-Stefano Carosiello. I am Computer Science student at Technical University Sofia and I have completed the Softuni path for Front-end developer.<br><br>I am currently a student at Technical University - Sofia, where I am studying C# and C. Alongside my academic studies, I have specialized in JavaScript development through SoftUni, gaining in-depth knowledge and hands-on experience in full-stack web development.<br><br>Technologies & Skills<br>Frontend Development<br>JavaScript – Core language for both frontend and backend development.<br>TypeScript – Adds static typing to JavaScript for better code maintainability.<br>Angular – A powerful framework for building scalable and dynamic web applications.<br>React – A component-based library for creating modern and efficient user interfaces.<br>Backend Development<br>Node.js – JavaScript runtime for building scalable server-side applications.<br>Express.js – Minimalist backend framework for creating APIs and web servers.<br>MongoDB – NoSQL database for handling flexible and scalable data storage.<br>Full-Stack JavaScript Development at SoftUni<br>At SoftUni, I have developed strong skills in:<br>✔ Functional programming, object-oriented programming (OOP), and prototypal inheritance.<br>✔ DOM manipulation, event handling, and asynchronous programming with Promises and async/await.<br>✔ Component-based architecture with frameworks like Angular and React.<br>✔ RESTful API design and backend development using Node.js and Express.js.<br>✔ Building Single Page Applications (SPA) with full-stack JavaScript.<br><br>More about the JavaScript Developer Program at SoftUni: SoftUni JavaScript Path</p>
+<h1 align="center">Hello! 👋 I'm Luben-Stefano Carosiello</h1>
+<h3 align="center">🚀 Computer Science Student | Full-Stack JavaScript Developer | Tech Enthusiast</h3>
 
-###
+<p align="center">
+  🎓 Studying <b>Computer Science</b> at <b>Technical University - Sofia</b>  
+  🌟 Completed the <b>SoftUni Front-End Developer</b> path  
+  💡 Passionate about <b>Web Development, JavaScript Ecosystem & Software Engineering</b>  
+</p>
 
-<br clear="both">
+---
 
+## 🚀 Technologies & Skills  
+### 🖥️ **Frontend Development**  
+- ⚡ **JavaScript** → The foundation of web magic ✨  
+- 🚀 **TypeScript** → Strongly typed JS for maintainable apps  
+- 🎨 **Angular** → Scalable framework for enterprise solutions  
+- ⚛️ **React** → Component-based UI development  
+
+### ⚙️ **Backend Development**  
+- 🌍 **Node.js** → JavaScript beyond the browser  
+- 📡 **Express.js** → Lightweight & fast backend framework  
+- 🗄️ **MongoDB** → NoSQL database for modern apps  
+
+---
+
+## 🎓 **SoftUni Full-Stack JavaScript Journey**  
+✅ Functional & Object-Oriented Programming (OOP)  
+✅ DOM Manipulation & Asynchronous Programming (Promises, async/await)  
+✅ Component-Based UI with **React & Angular**  
+✅ RESTful API design & **Full-Stack JavaScript Applications**  
+✅ **Single Page Applications (SPA)** & state management  
+
+🔗 **[Explore the SoftUni JavaScript Path](https://softuni.bg/professions/javascript)**  
+
+---
+
+## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LubenStefano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LubenStefano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LubenStefano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&order=1" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LubenStefano&layout=compact&theme=tokyonight&hide_border=false&order=2" height="160" alt="Top Languages" />
 </div>
 
-###
+---
 
-<br clear="both">
+## 🛠 Tech Stack  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="Angular" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
+---
 
-###
+## 📫 Let's Connect  
+🔗 **LinkedIn:** *[www.linkedin.com/in/luben-stefano-carosiello-849b00357](#)*  
+📩 **Email:** *LubenStefanovkn@gmail.com*  
+
+---
+
+🔥 **Always building, learning, and improving!** 🚀  
+
